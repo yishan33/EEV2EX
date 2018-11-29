@@ -11,6 +11,8 @@
 
 @interface ViewController ()
 
+@property (nonatomic, strong) UIView *testView;
+
 @end
 
 @implementation ViewController
