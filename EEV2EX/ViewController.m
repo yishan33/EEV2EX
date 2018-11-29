@@ -27,6 +27,8 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     //eetest111
+    //xxxxxxxx
+    //11111111
 }
 
 @end
